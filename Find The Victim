@@ -1,9 +1,6 @@
-RESTHACKER_CTF() - Find the victim
-Aug 29, 2020
+# RESTHACKER_CTF() - Find the victim
 
-
-
-### Challange Description
+# Challange Description
 
 Binod is a detective. He is spying on someone but he don’t know his name. He got some files from the victim’s house. Now, he trying to find the victim name through files. Can you help him out to grab the name from ?? - wantpassword.txt - somethingishere.txt.
 
