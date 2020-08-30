@@ -2,7 +2,8 @@ RESTHACKER_CTF() - Find the victim
 
 ### Challange Description :
 
-Binod is a detective. He is spying on someone but he don’t know his name. He got some files from the victim’s house. Now, he trying to find the victim name through files. Can you help him out to grab the name from ?? - wantpassword.txt - somethingishere.txt.
+Binod is a detective. He is spying on someone but he don’t know his name. He got some files from the victim’s house. Now, he trying to find the victim name through files. 
+Can you help him out to grab the name from ??
 
 ### How We Solve it :
 
@@ -20,7 +21,7 @@ Decoding it gives : coronawillendin2020
 
 so we know that it’s a password for something, let’s keep it & check the second file
 
-somethingishere.txt had some base64 inside so my first thought is to decode it :
+• somethingishere.txt had some base64 inside so my first thought is to decode it :
 
 cat somethingishere.txt | base64 -d (running this command give us something weird, 2 files inside)
 
