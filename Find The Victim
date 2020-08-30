@@ -1,15 +1,19 @@
+---
+layout: default
+---
+
 ## RESTHACKER_CTF() - Find the victim
 
 _**Aug 29, 2020**_
 
 <br>
 
-### Challenge Description
+### Challenge Description
 >Binod is a detective. He is spying on someone but he don't know his name. He got some files from the victim's house. Now, he trying to find the victim name through files. Can you help him out to grab the name from ?? - wantpassword.txt - somethingishere.txt.
 
 <br>
 
-### How We Solve it :
+### How We Solve it :
 
 
 We get 2 initial files from this challenge, Let's check every one of them !
